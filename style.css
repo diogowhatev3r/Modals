@@ -1,7 +1,26 @@
 h5{
     position: relative;
-    
+    color: white;
     margin-left: auto;
     margin-right: auto;
 }
 
+.modal-body{
+    background-color: #424242;
+}
+
+.modal-header{
+    background-color: #424242;
+}
+
+.modal-footer{
+    background-color: #424242;
+}
+
+p{
+    color: white;
+}
+
+#btn-avancar{
+    color: white !important;
+}
